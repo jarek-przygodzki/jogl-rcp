@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: org.jogamp.jogl-windows-i586
+Bundle-SymbolicName: org.jogamp.jogl-windows-i586
+Bundle-Version: 2.0.2.qualifier
+Fragment-Host: org.jogamp.jogl;bundle-version="2.0.2"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Eclipse-PlatformFilter: (& (osgi.os=win32) (osgi.arch=x86))
+Bundle-Vendor: Jarek Przygódzki

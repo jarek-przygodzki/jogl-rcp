@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.jogamp.jogl.feature_2.0.2.qualifier.jar" id="org.jogamp.jogl.feature" version="2.0.2.qualifier" os="linux,macosx,win32" arch="x86,x86_64">
+      <category name="org.jogamp.jogl"/>
+   </feature>
+   <category-def name="org.jogamp.jogl" label="JOGL for Eclipse RCP"/>
+</site>
